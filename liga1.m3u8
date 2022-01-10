@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" 
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/2.28.0-WITH_ADS" 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 https://etslive-2-vidio-com.akamaized.net/exp=1641819123~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=4eb6d896fc369a773b9d5dde71c296994063b3d2087789b3e81b64f2f33c37d7/vp9/205_stream.mpd
