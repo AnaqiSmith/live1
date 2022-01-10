@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTMPD
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://etslive-2-vidio-com.akamaized.net:443/exp=1641755427~acl=/vp9/8025_stream.mpd!/vp9/8025/*~hmac=be20aa3c250585e917d63c2b096e9cf745a242f848564a439c04de4dd03893e1/vp9/8025_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1641814927~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=cb8b57551af9c2ce1d19e631052eded5ca3d48714bce1cdce397ea2dc4d9035e/vp9/205_stream.mpd
