@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://portaltv.xyz/iptv/ngapain/usehls.m3u8?id=useesports2
+https://etslive-2-vidio-com.akamaized.net/exp=1646068245~acl=/hls-p/ingest_8026_*/*~hmac=79d81b3f77eaf2d7c64b7fca4a6a141e8fb509ac50e0c359cebb3e42e7fa2837/hls-p/ingest_8026_720p/index.m3u8
