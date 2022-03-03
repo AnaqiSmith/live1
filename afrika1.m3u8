@@ -1,4 +1,2 @@
-#EXTM3U
-#EXT-X-VERSION:3 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-https://portaltv.xyz/iptv/ngapain/usehls.m3u8?id=useesport
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
+https://etslive-2-vidio-com.akamaized.net/exp=1646320158~acl=/hls-p/ingest_6685_*/*~hmac=dcc8f4f274c1816970eb2503ff102b491ced1a9ae24b88ed51712280858c5d58/hls-p/ingest_6685_480p/index.m3u8
