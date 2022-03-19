@@ -5,8 +5,7 @@
 #EXT-X-MEDIA-TYPE:m3u8
 #EXT-X-ALLOW-CACHE:YES
 #EXTINF:10.0,
-Server: nginx
-Content-Type: text/html; charset=UTF-8
-Connection: open
-Access-Control-Allow-Origin: *
-https://lnk.ec/shareext@juara4
+#EXT-X-SERVE: nginx
+#EXT-XContent-Type: text/html; charset=UTF-8
+#EXT-Connection: open
+http://mantul.biz.id:8888/wilman/wilman/13922
