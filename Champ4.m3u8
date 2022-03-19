@@ -1,11 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
+#EXT-X-TARGETDURATION:240
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-MEDIA-TYPE:m3u8
 #EXT-X-ALLOW-CACHE:YES
-#EXTINF:10.0,
+#EXTINF:240.0,
 #EXT-X-SERVE: nginx
-#EXT-XContent-Type: text/html; charset=UTF-8
-#EXT-Connection: open
 http://mantul.biz.id:8888/wilman/wilman/13922
