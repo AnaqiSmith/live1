@@ -5,5 +5,5 @@
 #EXT-X-MEDIA-TYPE:m3u8
 #EXT-X-ALLOW-CACHE:YES
 #EXTINF:240.0,
-#EXT-X-SERVE: nginx
+#EXT-X-SERVER: nginx
 http://mantul.biz.id:8888/wilman/wilman/13922
