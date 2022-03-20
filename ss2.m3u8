@@ -1,9 +1,18 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-MEDIA-TYPE:m3u8
-#EXT-X-ALLOW-CACHE:YES
-#EXTINF:10.0,
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-http://bestavb.top:8008/Daia_Florin/1Unlimited19/33806
+HTTP/1.1 302 Found
+Date: Sun, 20 Mar 2022 11:54:07 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Location: http://dlta4k.site:80/UHRidn4drL/YAWjIaSONq/2060?token=SRtaUkpbGwhDVggHDA9WAFoNBgYMV1pQUwMFVVVbVQJQAQYACwRcClJAHUFGTBFQAllsXFBHAwEGBQdIQUwRVkBmW1cbCRsDVFoTTxdMClgGFgkEAlEOBAEEBVFQFUBDW10QCRsBDgJWQB1BUEAXUBFaUllrAVxFX1BSRllXF19eFRBcV2xdVwwDXwcXAkEEQRgRXEcVGwlYRlsITxsAWkZLU0dcEQMQV1UDQRkaAFoWWkdHTUcDEX93FUhBXBpHV1dBWlZdGwhDFkJBGRoKRjxGVkZAF1xSW1ZFRlkbUhEeG19SQWxaXQ8MVABBUQxbEBYJFwVQCQMUHxUJDFcLR11LbUNQVxsIQ1MJUQUaHg==
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=tOPPJCs4t8aB6tI7HvRSdq8eD9gWiiugb1qkpEB71aIFQoFdlHhPhLK8yREnWVxQWWA%2Bz5odyl5TzxFVjXJFFgc5BKrVaMHlsNVWznxfZckKEHWCDxO2gkgpqQFvQYGkhIUF"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 6eee404f28a24da3-SIN
+alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+
+0
+
