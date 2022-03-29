@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA-TYPE:m3u8
+#EXT-X-TYPE-LIVE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXTINF:10.0,
+curl -X GET -H "User-Agent:OTT Navigator/1.6.5.5 (Linux;Android 6.0.1) ExoPlayerLib/2.13.2" -H "Accept-Encoding:gzip" -H "Host:stariptv.org:8080" -H "Connection:Keep-Alive" "http://stariptv.org:8080/hakim2021/123456/55382"
