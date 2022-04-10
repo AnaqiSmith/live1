@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1957000
+http://prod-fastly-eu-central-1.video.pscp.tv:80/Transcoding/v1/hls/I86Of7Qh8QzoFbSDKNu1Iy6tk9Mhsn7eIArizGHvtBPcylo98cbkJGOqRCOKan3tr_2lYrKjhIU8WdGjI0swlg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
