@@ -1,4 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1653771000/ei/mDaSYvvAIuyN1d8P0Oax6As/ip/180.251.242.174/id/lsqdg7AH9zA.1/source/yt_live_broadcast/requiressl/yes/tx/24190961/txs/24190960%2C24190961/hfr/1/maxh/2160/spc/4ocVC0AdGK_oD7wLOjnMl488ge6yshn9_ygaRRb9Zw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgVdBU3rtlh4tkaI_TrdGUP8ZuNE9phuAZnCurkxug_a4CIAFrsAxqe43CFEEnjwSpN71qPoO7i3PsN5eOAjnmEMsG/file/index.m3u8
