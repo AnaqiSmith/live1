@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=360p,RESOLUTION=1280x720
-https://sin1.contabostorage.com/a808f6dce2514fba8eeb68596724ddd1:cast/hls/1/stream.m3u8
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1655536431~exp=9007200910277422~acl=/48eee16919834d3b97df1082a649bcfa/*/profile_2/chunklist.m3u8*~hmac=e2c7a7b7d0b21bc2708b007363cba0dfcf0b32f641732be88a1eec7a06db31c8
