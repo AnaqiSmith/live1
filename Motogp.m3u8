@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=360p,RESOLUTION=1280x720
-https://cdn1motogpcom.akamaized.net/hls/ipfmix/1.m3u8?token=ip=0.0.0.0~st=1656139786~exp=1656168563~acl=/hls/ipfmix/*~data=U1J6WkxqYVI3VzJKUTBYa2JzNGtWMlVQUzRVU1doUU4wJTJCQUI3aFRsZ2plT3VtcDNkNGpOU1BvekpsOEUzZDYx~hmac=7b61caf09bd71453473d48f829c5c13610cd1a8c1d18148a1d2f594fbc91e0e0&start=0&
+https://nos.wjv-1.neo.id/cast/hls/1/stream.m3u8
