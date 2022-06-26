@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=360p,RESOLUTION=1280x720
-https://streamamg-infro01.akamaized.net/hls/live/2039204/0_mnjlvew2/hdntl=exp=1656215831~acl=%2f*~data=hdntl~hmac=88a5771f27caa79767d7f1a2c4159256f12572e61a6067c255ce4fb33677988c/index_2.m3u8
+http://212.102.60.80/Eurosport2/index.m3u8
