@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-https://etslive-2-vidio-com.akamaized.net/exp=1657642479~acl=/hls-p/ingest_7916_*/*~hmac=befe2299343078a19397213272493b732431e7d892c96ae65a6917457653c3fd/hls-p/ingest_7916_360p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+http://ultratv.one:80/live/b6oxQeKNTb/x0zne3Wp/39408.m3u8
