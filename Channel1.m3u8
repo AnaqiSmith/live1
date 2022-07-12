@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-https://bf.55zhibo.cn/live/sd-1-3740778.m3u8?txSecret=458c23a93dbc5926c84fa8d032380626&txTime=62a86463
+https://etslive-2-vidio-com.akamaized.net/exp=1657642479~acl=/hls-p/ingest_7916_*/*~hmac=befe2299343078a19397213272493b732431e7d892c96ae65a6917457653c3fd/hls-p/ingest_7916_720p/index.m3u8
