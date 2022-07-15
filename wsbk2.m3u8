@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-https://cloudflarestream.com/2dc36dafeebe40a38949030b8877c78c/manifest/stream_t1_r1~stream_t2_r999999999.m3u8
+https://cloudflarestream.com/2dc36dafeebe40a38949030b8877c78c/manifest/stream_t1_r1~manifest/stream_t2_r999999999.m3u8
