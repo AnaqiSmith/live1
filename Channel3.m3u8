@@ -1,10 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2654208,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720
-https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/profile_0/chunklist.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1937408,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=960x540
-https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/profile_1/chunklist.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1118208,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=640x360
-https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/profile_2/chunklist.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=657408,CODECS="avc1.42c015,mp4a.40.2",RESOLUTION=480x270
-https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/profile_3/chunklist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1285544,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=852x480
+https://179720687.global.cdnfastest.com/live/may111/chunklist.m3u8
