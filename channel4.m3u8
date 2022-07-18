@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1285544,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=852x480
-https://179720687.global.cdnfastest.com/live/may111/chunklist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1667072,RESOLUTION=1280x720
+https://402173194.cloudvdn.com/a.m3u8?domain=pili-live-hls.tuantuan3.com&player=-EIAAND654f6yAIX&secondToken=secondToken%3ACwb7QttpceKRpuZ5n9LykRDbiWE&sign=ce596167de028a97e1e3a903c4199bf3&streamid=tuantuan3-com%3Atuantuan3-com%2Fsd-1-3669768&t=62d4c8af&v3=1
