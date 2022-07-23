@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-https://402173194.cloudvdn.com/a.m3u8?domain=pili-live-hls.tuantuan3.com&player=-EIAAJ5s97LElwQX&secondToken=secondToken%3Azz-VkKusRMCHKWrvAh6ukLVcroo&sign=08633a8b0b782599ab3fa60641a801a9&streamid=tuantuan3-com%3Atuantuan3-com%2Fsd-1-3742326&t=62dc8c37&v3=1
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
+https://live-kg.jixie.media/live/kompastv_lld.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
+https://web-livecdn.fptplay.net/hdevent/fsport05_hls.smil/chunklist_b1200000.m3u8
