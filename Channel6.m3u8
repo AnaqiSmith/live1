@@ -1,6 +1,6 @@
 #EXTM3U
-#EXT-X-VERSION:3
+#EXT-X-VERSION:5
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-lk
+l
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://401368590.cloudvdn.com/a.m3u8?domain=pili-live-hls.tuantuan3.com&player=dRYAAHwn5QqAbQQX&secondToken=secondToken%3AJua5E_LxIXN95B4O2oxXPTVqVhs&sign=53e03656ed26f4fb2ea359a2790ad5d8&streamid=tuantuan3-com%3Atuantuan3-com%2Fsd-1-3738037&t=62dbd6d0&v3=1
+https://web-livecdn.fptplay.net/hdevent/fsport04_hls.smil/chunklist_b1200000.m3u8
