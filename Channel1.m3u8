@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-lk
+l
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://web-livecdn.fptplay.net/hdevent/fsport05_hls.smil/chunklist_b1200000.m3u8
+https://cllive.itworkscdn.net/alrabiaatvnewslive/token=nva=1658631221~dirs=1~hash=0576cb1006c7fd94c7140/alrabiaatv2.smil/alrabiaatv2_chunks.m3u8
