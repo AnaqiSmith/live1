@@ -3,4 +3,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 l
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://web-livecdn.fptplay.net/hdevent/fsport04_hls.smil/chunklist_b1200000.m3u8
+https://401368591.cloudvdn.com/a.m3u8?domain=pili-live-hls.tuantuan3.com&player=VDEAAGaBPbpMmwQX&secondToken=secondToken%3AhWdqSQAL9TqJMrbupQBmFgULCd0&sign=f6dbda8541c47840966bad5366ad7275&streamid=tuantuan3-com%3Atuantuan3-com%2Fsd-1-3742332&t=62dc9b86&v3=1
