@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://bf.mzbox.net:443/live/sd-1-3744588.m3u8?txSecret=fb019774b05512d57536f2c8071ea711&txTime=62dcb7e1#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
+https://401368591.cloudvdn.com/a.m3u8?domain=pili-live-hls.tuantuan3.com&player=VDEAAJvT2ekYqgQX&secondToken=secondToken%3AjgYRuagWQUBvO1Vjx5i3rDzoQqU&sign=ee38ab961793e8aa3b962c2a65aaf41d&streamid=tuantuan3-com%3Atuantuan3-com%2Fsd-1-3744588&t=62dcdb02&v3=1
