@@ -1,7 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 l
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://401368590.cloudvdn.com/a.m3u8?domain=pili-live-hls.tuantuan3.com&player=K1oAAM_2UPEuWgUX&secondToken=secondToken%3AB8VrWWoIIbyjDFuZO9w2BptIed8&sign=d4089ca227df0df38b9bb186c602625e&streamid=tuantuan3-com%3Atuantuan3-com%2Fhd-zh-1-3726333%40360p&t=62dfcf52&v3=1
+https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/Sht3zUKdYPlejlvCoJIuxgeiWaa1dr6HHOd_PyqslXl70JDDv1GmvEKOyxkguBRVKago-FJpPxZPidP58CAWsQ/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live
