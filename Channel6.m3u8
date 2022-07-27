@@ -1,7 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-l
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://rmue2hq1pcliv.vcdn.cloud/45ca9596e2013d6ee3fd51f931623c91/1658958958918/lhsazur/lhsazur@720p.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000
+https://402173193.cloudvdn.com/a.m3u8?domain=pili-live-hls.tuantuan3.com&player=TbEAAHokhSFwqAUX&secondToken=secondToken%3AvQ06eWdEu2wyhLXTys1XwZkXv8E&sign=df6288ffdf1d08649fb5ab8d634e2edd&streamid=tuantuan3-com%3Atuantuan3-com%2Fsd-1-3726324&t=62e11f73&v3=1
