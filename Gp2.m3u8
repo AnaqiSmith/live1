@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=360p,RESOLUTION=1280x720
-https://cdn1motogpcom.akamaized.net/hls/ipfmix/1.m3u8?token=ip=0.0.0.0~st=1656230996~exp=1656259194~acl=/hls/ipfmix/*~data=UTRKYmE2YnQyaVVMN0VLJTJGeVdaTGNHYTFjMkxVb2IyYmlrcnBxTVFRcjI4aGlZWlFZM0RHejlGeFZmd1RsbVh6~hmac=65c5609640bfcdf31b3fa7893c156fa16f3c4880ba97f9669109301bcbe0412d&start=0&
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1659687604~exp=9007200914428595~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_2/chunklist.m3u8*~hmac=03abab702005df0002edf06935e5d387f2ac76f9dd630989c84faf21deb8035f
