@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://stream.pizztv.com:8000/live/Waresfth/ELIORTV/306.m3u8
+https://play.5918tuan.com:443/m3u8.php?url=https://play.zkshuye.cn/live/sd-2-3672964.m3u8
