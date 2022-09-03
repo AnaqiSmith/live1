@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=4292608,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
-https://bcovlive-a.akamaihd.net/c9053e496b884f45806493074da15f6e/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1662188000~exp=9007200916928991~acl=/c9053e496b884f45806493074da15f6e/*/profile_0/chunklist.m3u8*~hmac=e659879163ed8913da51db7c49f3c0fbabc8abdcb530e1c4be6ce4f8cb491359
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1662199051~exp=9007200916940042~acl=/48eee16919834d3b97df1082a649bcfa/*/profile_0/chunklist.m3u8*~hmac=634538209eaff32400397152f17ec5e954c6e51e0dcbfc88fb29c2284d945525
 #EXT-X-STREAM-INF:BANDWIDTH=1732608,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720
-https://bcovlive-a.akamaihd.net/c9053e496b884f45806493074da15f6e/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1662188000~exp=9007200916928991~acl=/c9053e496b884f45806493074da15f6e/*/profile_1/chunklist.m3u8*~hmac=c49419b93d946f81347869bd92a470bec14feeabd080752b057229ab1fb91d19
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1662199051~exp=9007200916940042~acl=/48eee16919834d3b97df1082a649bcfa/*/profile_1/chunklist.m3u8*~hmac=692a48865faa2b0bb779fbfb35e4dbc085740bb9f2734c0b63212c0bb18b394b
 #EXT-X-STREAM-INF:BANDWIDTH=1015808,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=960x540
-https://bcovlive-a.akamaihd.net/c9053e496b884f45806493074da15f6e/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1662188000~exp=9007200916928991~acl=/c9053e496b884f45806493074da15f6e/*/profile_2/chunklist.m3u8*~hmac=9ef7bcc26b8218fbefd5c6cccf4297c47e5b6495c9fded744f0a6b1eab8210ff
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1662199051~exp=9007200916940042~acl=/48eee16919834d3b97df1082a649bcfa/*/profile_2/chunklist.m3u8*~hmac=b6d953155123c5b953f380100ba092ca345b6b1bca098dd8319b4bb81ffa02f8
