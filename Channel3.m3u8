@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-ALLOW-CACHE:NO
-#EXT-X-MEDIA-SEQUENCE:1661820812
-#EXT-X-TARGETDURATION:4
-#EXTINF:4,
-https://play.5918tuan.com:443/m3u8.php?url=https://play.zkshuye.cn/live/sd-2-3672952.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
+https://global.zkshuye.cn/live/sd-1-3847896.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+https://live.yishenglaile.com/live/sd-1-3847896.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+https://l.huitaimei.com/live/sd-1-3847896.m3u8
