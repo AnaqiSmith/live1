@@ -1,8 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-https://global.zkshuye.cn/live/sd-1-3847896.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-https://live.yishenglaile.com/live/sd-1-3847896.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-https://l.huitaimei.com/live/sd-1-3847896.m3u8
+https://egress-ev-wps-32205-roundz008c95-397-1673266876.live.streamer.wpstream.net/ev_wps_32205_roundz008c95_397_1673266876/hls/0jyh80amm1mcqjd4.m3u8
