@@ -1,8 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-https://global.zkshuye.cn/live/sd-1-3852854.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-https://live.yishenglaile.com/live/sd-1-3852854.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-https://l.huitaimei.com/live/sd-1-3852854.m3u8
+http://global.zkshuye.cn/live/sd-1-3847454.m3u8?txSecret=a42f8408ebfe13e36b624430b61a9a39&txTime=1676075286
